@@ -22,7 +22,7 @@ This project builds the back-end of an E-Commerce website by using Express.js AP
 
 ## Usage
 
-To get started, clone the repo onto your machine. Once cloned, you will need to generate the database by using the prompts in the "schema.sql" file found in the "db" folder in MySQL Workbench. You will then need to seed your database by entering "npm run seed" in the command line. Once your database has been created and seeded, you will need to install the necessary packages by using "npm install" in the command line. Once all packages have been installed, use "npm start" in the command line to run the application. You will then need to open Insomnia to read or modify any data. Follow the correct /api routes to correctly pull, add , modify, and/or delete data from the database.
+To get started, clone the repo onto your machine. Once cloned, you will need to add your information into the .env file. Then you will need to generate the database by using the prompts in the "schema.sql" file found in the "db" folder in MySQL Workbench. You will then need to seed your database by entering "npm run seed" in the command line. Once your database has been created and seeded, you will need to install the necessary packages by using "npm install" in the command line. Once all packages have been installed, use "npm start" in the command line to run the application. You will then need to open Insomnia to read or modify any data. Follow the correct /api routes to correctly pull, add , modify, and/or delete data from the database.
 
 ## Screenshots
 
