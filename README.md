@@ -18,7 +18,7 @@ This project builds the back-end of an E-Commerce website by using Express.js AP
 ## Links
 
 - [Walkthrough Video](https://drive.google.com/file/d/1oFGMK-TM3e98Wqf1gIIqAMq4079ldNvw/view)
-- [GitHub Repo](https://github.com/jeaustins27/E-Commerce)
+- [GitHub Repo](https://github.com/jeaustins27/E-Commerce-Back-End)
 
 ## Usage
 
